@@ -1,7 +1,7 @@
 # Node.js-Basics
 A repository created while learning the basics of Node.js
 
-You can download the files and run 'node filename' to see the result. (If you are using nodemon for auto reload 'nodemon filename')
+You can download the files and run 'node filename' to see the result. (If you are using nodemon for auto reload 'nodemon filename'). Below I am adding some notes that I made while learning the basics:
 
 Node.js - Ryan Dahl(2009)
 =========================
